@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Instalação do curl
-pkg install curl -y
-
 menu() {
   clear
   echo "====================================="
